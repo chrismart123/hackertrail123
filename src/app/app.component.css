@@ -1,0 +1,57 @@
+.fL{ float:left}
+.fR{ float:right}
+.mar5{ margin:5px}
+
+/* header */
+header{
+    margin:10px 0 50px;
+}
+
+header .logo{
+    font-weight: bold;
+    color:#007bff;
+    font-size:20px;
+}
+
+.content{
+   
+}
+
+.content .inner-content{
+    margin:50px;
+}
+.content .inner-content span{
+    padding: 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+    color:#fff;
+    background-color: #007bff;
+    border-radius: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+.content .inner-content ul{  
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.content .inner-content ul li i{
+    color:#007bff;
+    font-weight: bold;
+}
+.content .inner-content ul li label{
+    color: #000;
+    padding: 5px 10px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.content .inner-content ul li p{
+    color:grey;
+    padding-left: 30px;
+}
+
+
+/* .content .inner-content */
